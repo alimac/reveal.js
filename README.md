@@ -34,7 +34,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/isle-of-drupal.jpg" data-background-size="1280px" -->
-## Isle of Drupal
+## Slide title
 <!-- .element: class="hidden" -->
 
 Note:
