@@ -10,19 +10,14 @@ Note:
 
 
 
-## Alina Mackenzie
-<img src="custom/images/alimac-avatar.png">
+## Presenter
 
-<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> alimac</a>
+<a href="https://www.drupal.org/u/user"><i class="fa fa-drupal"></i> user</a>
 
-<a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
-
-char • o • jay • ka
-<!-- .element class="fragment" style="word-spacing: 8px;" -->
+<a href="https://twitter.com/user"><i class="fa fa-twitter"></i> user</a>
 
 Note:
-- Developer and system administrator based in Chicago
-- Doing Drupal for ~4 years, active in the community for ~2 years
+- About presenter
 
 
 
